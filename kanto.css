@@ -1,0 +1,22 @@
+body {
+    background-color: #363636;
+}
+
+header {
+    background-color: #666666;
+}
+
+.Logo {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.cameron {
+    width: 600px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
